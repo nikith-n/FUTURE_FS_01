@@ -21,7 +21,7 @@ const Education = () => {
                         fontSize: '0.9rem',
                         fontWeight: '600'
                     }}>
-                        5th Semester (Pursuing)
+                        6th Semester (Pursuing)
                     </span>
                 </div>
 

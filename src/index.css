@@ -100,3 +100,35 @@ ul {
   background: rgba(255, 255, 255, 0.05);
   border-color: rgba(255, 255, 255, 0.2);
 }
+
+@media (max-width: 768px) {
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+  }
+
+  .hero img {
+    width: 70%;
+    margin: auto;
+  }
+
+}
+
+@media (max-width:768px){
+
+  .container{
+    padding:0 15px;
+  }
+
+  .section{
+    padding:3rem 0;
+  }
+
+  img{
+    max-width:100%;
+    height:auto;
+  }
+
+}
